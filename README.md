@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chenvpro
-- 👀 I’m interested in dev web
-- 🌱 I’m currently learning java, javascript, php and responsive web site
+- 👀 I’m interested in full stack dev web
+- 🌱 I’m currently learning database, java, javascript, php and responsive web site
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @vincentchen.cp@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me @vincentc.pro@outlook.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
