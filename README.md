@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @chenvpro
 - 👀 I’m interested in full stack dev web
-- 🌱 I’m currently learning database, java, javascript, php and responsive web site
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning responsive website, javascript, python, Backend, UX/UI, web design
 - 📫 How to reach me @vincentc.pro@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can self learn a lot.
 
 <!---
 chenvpro/chenvpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
